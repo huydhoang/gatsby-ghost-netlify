@@ -1,0 +1,5 @@
+# Netlify redirects file, edit with your domain
+# https://www.netlify.com/docs/redirects/
+
+https://gatsby-starter-ghost.netlify.com/*      https://huydhoang.com/:splat    301!
+http://gatsby-starter-ghost.netlify.com/*       https://huydhoang.com/:splat    301!

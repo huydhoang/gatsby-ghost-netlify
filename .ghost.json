@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://huydhoang.herokuapp.com",
+    "contentApiKey": "cc7316835f37d5e3e43b7dc293"
+  },
+  "production": {
+    "apiUrl": "https://huydhoang.herokuapp.com",
+    "contentApiKey": "cc7316835f37d5e3e43b7dc293"
+  }
+}
