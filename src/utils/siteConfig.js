@@ -3,8 +3,8 @@ module.exports = {
 
     postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-    siteTitleMeta: `Life of Huy`, // This allows an alternative site title for meta data for pages.
-    siteDescriptionMeta: `Thoughts, notes and stories and all the struggles I had`, // This allows an alternative site description for meta data for pages.
+    siteTitleMeta: `My life, my stories.`, // This allows an alternative site title for meta data for pages.
+    siteDescriptionMeta: `Thoughts, notes and stories of all the struggles I had`, // This allows an alternative site description for meta data for pages.
 
     shareImageWidth: 1000, // Change to the width of your default share image
     shareImageHeight: 523, // Change to the height of your default share image
